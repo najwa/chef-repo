@@ -1,0 +1,7 @@
+{
+  "name": "union",
+  "description": "Where we test new code",
+  "default_attributes": {
+    "payment_processor": "http://sandbox.paypal.com"
+  }
+}

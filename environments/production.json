@@ -1,0 +1,12 @@
+{
+  "name": "production",
+  "description": "Where we run production code",
+  "cookbook_versions": {
+    "apache" : "= 0.2.1",
+    "myhaproxy" : "= 0.2.0"
+  },
+  "default_attributes": {
+    "payment_processor": "http://paypal.com"
+  }
+
+}
